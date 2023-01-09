@@ -1,0 +1,57 @@
+
+{
+  "matchSchedule":
+[
+  {
+   
+    "stadium": "Maracana",
+    "homeTeam":"Brazil" ,
+    "homeimg": "https://countryflagsapi.com/svg/br",
+    "awayTeam": "Serbia",
+    "awayimg": "https://countryflagsapi.com/png/688",
+   "matchPlayed": true,
+ "homeTeamScore": 2,
+ "awayTeamScore": 0
+  },
+  {
+    "stadium": "Stadium de Suisse",
+    "homeTeam":"Switzerland" ,
+    "homeimg": "https://countryflagsapi.com/png/756",
+    "awayTeam": "Serbia",
+    "awayimg": "https://countryflagsapi.com/png/688",
+    "matchPlayed": true,
+    "homeTeamScore": 0,
+    "awayTeamScore": 2
+  }
+],
+"Leaderboard":
+[
+
+  {
+    "teamName": "Brazil",
+    "matchesPlayed":2 ,
+    "img": "https://countryflagsapi.com/svg/br",
+    "pionts": 6,
+    "goalsAgainst": 0,
+    "goalsFor": 2
+  },
+  {
+    "teamName": "serbia",
+    "matchesPlayed":2 ,
+    "img": "https://countryflagsapi.com/svg/serbia",
+    "pionts": 3,
+    "goalsAgainst": 2,
+    "goalsFor": 2
+  },
+  {
+    "teamName": "serbia",
+    "matchesPlayed":2 ,
+    "img": "https://countryflagsapi.com/svg/br",
+    "pionts": 3,
+    "goalsAgainst": 2,
+    "goalsFor": 2
+  }
+
+]
+
+}
